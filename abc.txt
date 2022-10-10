@@ -1,4 +1,9 @@
 hello
 this is a demo file
+<<<<<<< HEAD
 
 edited in local
+=======
+created branch b1
+editing in local
+>>>>>>> b1
